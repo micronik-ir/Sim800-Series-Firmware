@@ -1,2 +1,2 @@
 # Sim800-Series-Firmware
-sim800c firmware
+SIM800c firmware support MQTT and TLS 1.2 
